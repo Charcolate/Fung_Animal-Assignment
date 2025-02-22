@@ -1,30 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ccfun\\OneDrive - Sheridan College\\Documents\\GitHub\\Fung_Animal-Assignment\\AssignmentAnimal\\",
+  "WorkspaceRootPath": "C:\\Users\\ccfun\\OneDrive\\Documents\\GitHub\\Fung_Animal-Assignment\\AssignmentAnimal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ccfun\\OneDrive - Sheridan College\\Documents\\GitHub\\Fung_Animal-Assignment\\AssignmentAnimal\\Assets\\Script\\NPCMove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\NPCMove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ccfun\\OneDrive - Sheridan College\\Documents\\GitHub\\Fung_Animal-Assignment\\AssignmentAnimal\\Assets\\Script\\WaypointManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\WaypointManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ccfun\\OneDrive - Sheridan College\\Documents\\GitHub\\Fung_Animal-Assignment\\AssignmentAnimal\\Assets\\Script\\Walking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ccfun\\OneDrive\\Documents\\GitHub\\Fung_Animal-Assignment\\AssignmentAnimal\\Assets\\Script\\Walking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\Walking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ccfun\\OneDrive - Sheridan College\\Documents\\GitHub\\Fung_Animal-Assignment\\AssignmentAnimal\\Assets\\Script\\Wait.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ccfun\\OneDrive\\Documents\\GitHub\\Fung_Animal-Assignment\\AssignmentAnimal\\Assets\\Script\\NPCMove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\NPCMove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ccfun\\OneDrive\\Documents\\GitHub\\Fung_Animal-Assignment\\AssignmentAnimal\\Assets\\Script\\WaypointManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\WaypointManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ccfun\\OneDrive\\Documents\\GitHub\\Fung_Animal-Assignment\\AssignmentAnimal\\Assets\\Script\\Wait.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\Wait.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ccfun\\OneDrive - Sheridan College\\Documents\\GitHub\\Fung_Animal-Assignment\\AssignmentAnimal\\Assets\\Script\\KeyPress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ccfun\\OneDrive\\Documents\\GitHub\\Fung_Animal-Assignment\\AssignmentAnimal\\Assets\\Script\\KeyPress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\KeyPress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ccfun\\OneDrive - Sheridan College\\Documents\\GitHub\\Fung_Animal-Assignment\\AssignmentAnimal\\Assets\\Script\\Jump ON.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\Jump ON.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ccfun\\OneDrive - Sheridan College\\Documents\\GitHub\\Fung_Animal-Assignment\\AssignmentAnimal\\Assets\\Script\\Jump ON.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,69 +33,66 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Wait.cs",
-              "DocumentMoniker": "C:\\Users\\ccfun\\OneDrive - Sheridan College\\Documents\\GitHub\\Fung_Animal-Assignment\\AssignmentAnimal\\Assets\\Script\\Wait.cs",
+              "DocumentMoniker": "C:\\Users\\ccfun\\OneDrive\\Documents\\GitHub\\Fung_Animal-Assignment\\AssignmentAnimal\\Assets\\Script\\Wait.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Wait.cs",
-              "ToolTip": "C:\\Users\\ccfun\\OneDrive - Sheridan College\\Documents\\GitHub\\Fung_Animal-Assignment\\AssignmentAnimal\\Assets\\Script\\Wait.cs",
+              "ToolTip": "C:\\Users\\ccfun\\OneDrive\\Documents\\GitHub\\Fung_Animal-Assignment\\AssignmentAnimal\\Assets\\Script\\Wait.cs",
               "RelativeToolTip": "Assets\\Script\\Wait.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T23:47:44.504Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T23:47:44.504Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "KeyPress.cs",
-              "DocumentMoniker": "C:\\Users\\ccfun\\OneDrive - Sheridan College\\Documents\\GitHub\\Fung_Animal-Assignment\\AssignmentAnimal\\Assets\\Script\\KeyPress.cs",
+              "DocumentMoniker": "C:\\Users\\ccfun\\OneDrive\\Documents\\GitHub\\Fung_Animal-Assignment\\AssignmentAnimal\\Assets\\Script\\KeyPress.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\KeyPress.cs",
-              "ToolTip": "C:\\Users\\ccfun\\OneDrive - Sheridan College\\Documents\\GitHub\\Fung_Animal-Assignment\\AssignmentAnimal\\Assets\\Script\\KeyPress.cs",
+              "ToolTip": "C:\\Users\\ccfun\\OneDrive\\Documents\\GitHub\\Fung_Animal-Assignment\\AssignmentAnimal\\Assets\\Script\\KeyPress.cs",
               "RelativeToolTip": "Assets\\Script\\KeyPress.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T07:24:15.041Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-12T07:24:15.041Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "NPCMove.cs",
-              "DocumentMoniker": "C:\\Users\\ccfun\\OneDrive - Sheridan College\\Documents\\GitHub\\Fung_Animal-Assignment\\AssignmentAnimal\\Assets\\Script\\NPCMove.cs",
+              "DocumentMoniker": "C:\\Users\\ccfun\\OneDrive\\Documents\\GitHub\\Fung_Animal-Assignment\\AssignmentAnimal\\Assets\\Script\\NPCMove.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\NPCMove.cs",
-              "ToolTip": "C:\\Users\\ccfun\\OneDrive - Sheridan College\\Documents\\GitHub\\Fung_Animal-Assignment\\AssignmentAnimal\\Assets\\Script\\NPCMove.cs",
+              "ToolTip": "C:\\Users\\ccfun\\OneDrive\\Documents\\GitHub\\Fung_Animal-Assignment\\AssignmentAnimal\\Assets\\Script\\NPCMove.cs",
               "RelativeToolTip": "Assets\\Script\\NPCMove.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAAACMAAACTAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAADwAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-12T00:27:15.807Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "WaypointManager.cs",
-              "DocumentMoniker": "C:\\Users\\ccfun\\OneDrive - Sheridan College\\Documents\\GitHub\\Fung_Animal-Assignment\\AssignmentAnimal\\Assets\\Script\\WaypointManager.cs",
+              "DocumentMoniker": "C:\\Users\\ccfun\\OneDrive\\Documents\\GitHub\\Fung_Animal-Assignment\\AssignmentAnimal\\Assets\\Script\\WaypointManager.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\WaypointManager.cs",
-              "ToolTip": "C:\\Users\\ccfun\\OneDrive - Sheridan College\\Documents\\GitHub\\Fung_Animal-Assignment\\AssignmentAnimal\\Assets\\Script\\WaypointManager.cs",
+              "ToolTip": "C:\\Users\\ccfun\\OneDrive\\Documents\\GitHub\\Fung_Animal-Assignment\\AssignmentAnimal\\Assets\\Script\\WaypointManager.cs",
               "RelativeToolTip": "Assets\\Script\\WaypointManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T23:55:51.699Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T23:55:51.699Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Walking.cs",
-              "DocumentMoniker": "C:\\Users\\ccfun\\OneDrive - Sheridan College\\Documents\\GitHub\\Fung_Animal-Assignment\\AssignmentAnimal\\Assets\\Script\\Walking.cs",
+              "DocumentMoniker": "C:\\Users\\ccfun\\OneDrive\\Documents\\GitHub\\Fung_Animal-Assignment\\AssignmentAnimal\\Assets\\Script\\Walking.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Walking.cs",
-              "ToolTip": "C:\\Users\\ccfun\\OneDrive - Sheridan College\\Documents\\GitHub\\Fung_Animal-Assignment\\AssignmentAnimal\\Assets\\Script\\Walking.cs",
+              "ToolTip": "C:\\Users\\ccfun\\OneDrive\\Documents\\GitHub\\Fung_Animal-Assignment\\AssignmentAnimal\\Assets\\Script\\Walking.cs",
               "RelativeToolTip": "Assets\\Script\\Walking.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAAEwAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAHUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-11T23:44:57.03Z",
               "EditorCaption": ""
@@ -106,9 +102,9 @@
               "DocumentIndex": 5,
               "Title": "Jump ON.cs",
               "DocumentMoniker": "C:\\Users\\ccfun\\OneDrive - Sheridan College\\Documents\\GitHub\\Fung_Animal-Assignment\\AssignmentAnimal\\Assets\\Script\\Jump ON.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Jump ON.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\OneDrive - Sheridan College\\Documents\\GitHub\\Fung_Animal-Assignment\\AssignmentAnimal\\Assets\\Script\\Jump ON.cs",
               "ToolTip": "C:\\Users\\ccfun\\OneDrive - Sheridan College\\Documents\\GitHub\\Fung_Animal-Assignment\\AssignmentAnimal\\Assets\\Script\\Jump ON.cs",
-              "RelativeToolTip": "Assets\\Script\\Jump ON.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\OneDrive - Sheridan College\\Documents\\GitHub\\Fung_Animal-Assignment\\AssignmentAnimal\\Assets\\Script\\Jump ON.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-11T23:41:47.995Z"

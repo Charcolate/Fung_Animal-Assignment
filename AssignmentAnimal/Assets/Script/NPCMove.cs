@@ -65,8 +65,8 @@ namespace NodeCanvas.Tasks.Actions {
                 );
 
                 // Debug positions
-                Debug.Log("NPC Position: " + targetNPC.transform.position);
-                Debug.Log("Target Position: " + targetPosition.value);
+                //Debug.Log("NPC Position: " + targetNPC.transform.position);
+                //Debug.Log("Target Position: " + targetPosition.value);
 
                 // Check if the NPC has reached the target position (with a larger threshold)
                 if (Vector3.Distance(targetNPC.transform.position, targetPosition.value) < 0.5f)
