@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f945e777233a59f4aba40aeca29093a6, type: 3}
+  m_Name: FSM
+  m_EditorClassIdentifier: 
+  _serializedGraph: '{"type":"NodeCanvas.StateMachines.FSM","nodes":[{"_actionList":{"executionMode":1,"actions":[{"targetNPC":1,"targetPosition":{"_name":"NPCTartgetLocationC","_targetVariableID":"3bc39566-9b68-406d-ae41-c3adaba36a16"},"isRotate":{},"navMeshAgent":2,"$type":"NodeCanvas.Tasks.Actions.NPCMove"}]},"_color":{"r":1.0,"g":0.42,"b":0.32,"a":1.0},"_position":{"x":348.0,"y":151.2},"$type":"NodeCanvas.StateMachines.ActionState","$id":"0"},{"_actionList":{"executionMode":1,"actions":[{"animationClip":{"_name":"FoxJump","_targetVariableID":"05c5f04d-54f6-40a6-a446-0a17bf680005"},"animationWrap":1,"overrideAgent":{"_type":"UnityEngine.Animation","_name":"Fox","_targetVariableID":"08fbcb4f-5a3a-470d-999b-670d4c76536d"},"$type":"NodeCanvas.Tasks.Actions.PlayAnimationSimple"}]},"_color":{"r":1.0,"g":0.42,"b":0.32,"a":1.0},"_name":"JumpON","_position":{"x":550.4,"y":244.0},"$type":"NodeCanvas.StateMachines.ActionState","$id":"1"},{"_actionList":{"executionMode":1,"actions":[{"targetNPC":1,"targetPosition":{"_name":"NPCogLocationC","_targetVariableID":"68fb1500-e2c7-42c2-9efa-6ade3e2bb4ab"},"moveSpeed":10.0,"isRotate":{"_value":true},"navMeshAgent":2,"$type":"NodeCanvas.Tasks.Actions.NPCMove"}]},"_color":{"r":1.0,"g":0.42,"b":0.32,"a":1.0},"_name":"Return","_position":{"x":407.2,"y":352.8},"$type":"NodeCanvas.StateMachines.ActionState","$id":"2"}],"connections":[{"_sourceNode":{"$ref":"0"},"_targetNode":{"$ref":"1"},"$type":"NodeCanvas.StateMachines.FSMConnection"},{"_sourceNode":{"$ref":"1"},"_targetNode":{"$ref":"2"},"$type":"NodeCanvas.StateMachines.FSMConnection"}],"canvasGroups":[],"localBlackboard":{"_variables":{"NPCTartgetLocationC":{"_value":3,"_name":"NPCTartgetLocationC","_id":"3bc39566-9b68-406d-ae41-c3adaba36a16","_isPublic":true,"$type":"NodeCanvas.Framework.Variable`1[[UnityEngine.GameObject,
+    UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"NPCogLocationC":{"_value":4,"_name":"NPCogLocationC","_id":"68fb1500-e2c7-42c2-9efa-6ade3e2bb4ab","_isPublic":true,"$type":"NodeCanvas.Framework.Variable`1[[UnityEngine.GameObject,
+    UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"FoxJump":{"_value":5,"_name":"FoxJump","_id":"05c5f04d-54f6-40a6-a446-0a17bf680005","_isPublic":true,"$type":"NodeCanvas.Framework.Variable`1[[UnityEngine.AnimationClip,
+    UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"Fox":{"_value":6,"_name":"Fox","_id":"08fbcb4f-5a3a-470d-999b-670d4c76536d","_isPublic":true,"$type":"NodeCanvas.Framework.Variable`1[[UnityEngine.Animation,
+    UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"}}}}'
+  _objectReferences:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 7400000, guid: b3d2de89ed4e49f4ca0d318cb9c6caad, type: 2}
+  - {fileID: 0}
+  _graphSource:
+    _version: 3.31
+    _category: 
+    _comments: 
+    _translation: {x: -183, y: 129}
+    _zoomFactor: 1
+  _haltSerialization: 0
+  _externalSerializationFile: {fileID: 0}

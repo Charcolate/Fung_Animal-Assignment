@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ccfun\\OneDrive\\Documents\\GitHub\\Fung_Animal-Assignment\\AssignmentAnimal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ccfun\\OneDrive\\Documents\\GitHub\\Fung_Animal-Assignment\\AssignmentAnimal\\Assets\\Script\\Walk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\Walk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ccfun\\OneDrive\\Documents\\GitHub\\Fung_Animal-Assignment\\AssignmentAnimal\\Assets\\Script\\CharacterMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\CharacterMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ccfun\\OneDrive\\Documents\\GitHub\\Fung_Animal-Assignment\\AssignmentAnimal\\Assets\\Script\\Wait.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\Wait.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ccfun\\OneDrive\\Documents\\GitHub\\Fung_Animal-Assignment\\AssignmentAnimal\\Assets\\Script\\NPCMove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\NPCMove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ccfun\\OneDrive\\Documents\\GitHub\\Fung_Animal-Assignment\\AssignmentAnimal\\Assets\\Script\\Walking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\Walking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ccfun\\OneDrive\\Documents\\GitHub\\Fung_Animal-Assignment\\AssignmentAnimal\\Assets\\Script\\WaypointManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\WaypointManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ccfun\\OneDrive\\Documents\\GitHub\\Fung_Animal-Assignment\\AssignmentAnimal\\Assets\\Script\\KeyPress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\KeyPress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ccfun\\OneDrive - Sheridan College\\Documents\\GitHub\\Fung_Animal-Assignment\\AssignmentAnimal\\Assets\\Script\\Jump ON.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Walk.cs",
+              "DocumentMoniker": "C:\\Users\\ccfun\\OneDrive\\Documents\\GitHub\\Fung_Animal-Assignment\\AssignmentAnimal\\Assets\\Script\\Walk.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Walk.cs",
+              "ToolTip": "C:\\Users\\ccfun\\OneDrive\\Documents\\GitHub\\Fung_Animal-Assignment\\AssignmentAnimal\\Assets\\Script\\Walk.cs",
+              "RelativeToolTip": "Assets\\Script\\Walk.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T04:31:54.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CharacterMovement.cs",
+              "DocumentMoniker": "C:\\Users\\ccfun\\OneDrive\\Documents\\GitHub\\Fung_Animal-Assignment\\AssignmentAnimal\\Assets\\Script\\CharacterMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CharacterMovement.cs",
+              "ToolTip": "C:\\Users\\ccfun\\OneDrive\\Documents\\GitHub\\Fung_Animal-Assignment\\AssignmentAnimal\\Assets\\Script\\CharacterMovement.cs",
+              "RelativeToolTip": "Assets\\Script\\CharacterMovement.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T03:23:21.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Wait.cs",
+              "DocumentMoniker": "C:\\Users\\ccfun\\OneDrive\\Documents\\GitHub\\Fung_Animal-Assignment\\AssignmentAnimal\\Assets\\Script\\Wait.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Wait.cs",
+              "ToolTip": "C:\\Users\\ccfun\\OneDrive\\Documents\\GitHub\\Fung_Animal-Assignment\\AssignmentAnimal\\Assets\\Script\\Wait.cs",
+              "RelativeToolTip": "Assets\\Script\\Wait.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T23:47:44.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KeyPress.cs",
+              "DocumentMoniker": "C:\\Users\\ccfun\\OneDrive\\Documents\\GitHub\\Fung_Animal-Assignment\\AssignmentAnimal\\Assets\\Script\\KeyPress.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\KeyPress.cs",
+              "ToolTip": "C:\\Users\\ccfun\\OneDrive\\Documents\\GitHub\\Fung_Animal-Assignment\\AssignmentAnimal\\Assets\\Script\\KeyPress.cs",
+              "RelativeToolTip": "Assets\\Script\\KeyPress.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T07:24:15.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NPCMove.cs",
+              "DocumentMoniker": "C:\\Users\\ccfun\\OneDrive\\Documents\\GitHub\\Fung_Animal-Assignment\\AssignmentAnimal\\Assets\\Script\\NPCMove.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\NPCMove.cs",
+              "ToolTip": "C:\\Users\\ccfun\\OneDrive\\Documents\\GitHub\\Fung_Animal-Assignment\\AssignmentAnimal\\Assets\\Script\\NPCMove.cs",
+              "RelativeToolTip": "Assets\\Script\\NPCMove.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T00:27:15.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WaypointManager.cs",
+              "DocumentMoniker": "C:\\Users\\ccfun\\OneDrive\\Documents\\GitHub\\Fung_Animal-Assignment\\AssignmentAnimal\\Assets\\Script\\WaypointManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\WaypointManager.cs",
+              "ToolTip": "C:\\Users\\ccfun\\OneDrive\\Documents\\GitHub\\Fung_Animal-Assignment\\AssignmentAnimal\\Assets\\Script\\WaypointManager.cs",
+              "RelativeToolTip": "Assets\\Script\\WaypointManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T23:55:51.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Walking.cs",
+              "DocumentMoniker": "C:\\Users\\ccfun\\OneDrive\\Documents\\GitHub\\Fung_Animal-Assignment\\AssignmentAnimal\\Assets\\Script\\Walking.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Walking.cs",
+              "ToolTip": "C:\\Users\\ccfun\\OneDrive\\Documents\\GitHub\\Fung_Animal-Assignment\\AssignmentAnimal\\Assets\\Script\\Walking.cs",
+              "RelativeToolTip": "Assets\\Script\\Walking.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T23:44:57.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Jump ON.cs",
+              "DocumentMoniker": "C:\\Users\\ccfun\\OneDrive - Sheridan College\\Documents\\GitHub\\Fung_Animal-Assignment\\AssignmentAnimal\\Assets\\Script\\Jump ON.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\OneDrive - Sheridan College\\Documents\\GitHub\\Fung_Animal-Assignment\\AssignmentAnimal\\Assets\\Script\\Jump ON.cs",
+              "ToolTip": "C:\\Users\\ccfun\\OneDrive - Sheridan College\\Documents\\GitHub\\Fung_Animal-Assignment\\AssignmentAnimal\\Assets\\Script\\Jump ON.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\OneDrive - Sheridan College\\Documents\\GitHub\\Fung_Animal-Assignment\\AssignmentAnimal\\Assets\\Script\\Jump ON.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T23:41:47.995Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
